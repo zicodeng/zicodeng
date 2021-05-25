@@ -9,7 +9,7 @@
                              \\\\\\\        +----------------------------+
                             \\\\\\\\\\\\    | CODE IT! TEST IT! SHIP IT! |              
                           \\\\\\\\\\\\\\\   +----------------------------+
-  -----------,-|           |🔥   // )\\\\| 
+  -----------,-|           |♥️   // )\\\\| 
            ,','|          /    || ,'/////|
 ---------,','  |         (,    ||   /////
          ||    |          \\  ||||//''''|
@@ -28,10 +28,10 @@ _____________|','   ///_/-------------/   |
 ```
 
 - 🔭 I’m currently working for a 🦄 startup [Convoy 🚚](https://convoy.com/), on a mission to transport the world with endless capacity and zero waste
-- 🌱 I’m currently learning **trucking industry**
+- 🌱 I’m currently learning **trucking industry, project management, leadership skills**
 - 💬 Ask me about **TypeScript, GraphQL, React, Node.js**
 - 📫 How to reach me: [@zicodeng](https://www.linkedin.com/in/zico-deng/) on LinkedIn
-- ⚡ Fun fact: I am a coder who's really into DJ 😎
+- ⚡ Fun fact: I am a nerdy programmer who's really into jocky DJ 😎
 
 -------
 
