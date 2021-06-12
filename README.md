@@ -50,5 +50,5 @@ _____________|','   ///_/-------------/   |
 
 ![Zico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicodeng&show_icons=true&theme=radical)
 
-[![Zico's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zicodeng&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
+![Zico's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zicodeng&theme=radical&v=2)
 
