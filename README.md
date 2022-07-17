@@ -27,15 +27,18 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-- 🔭 I’m currently working for a 🦄 startup [Convoy 🚚](https://convoy.com/), on a mission to transport the world with endless capacity and zero waste
-- 🌱 I’m currently learning **trucking industry, project management, leadership skills**
-- 💬 Ask me about **TypeScript, GraphQL, React, Node.js**
-- 📫 How to reach me: [@zicodeng](https://www.linkedin.com/in/zico-deng/) on LinkedIn or ask me anything [here](https://github.com/zicodeng/zicodeng/issues)
-- ⚡ Fun fact: I am a nerdy programmer who's really into jocky DJ 😎
+- 👨‍💻 I’m currently working for a 🦄 startup [Convoy 🚚](https://convoy.com/), on a mission to transport the world with endless capacity and zero waste.
+- 📖 I’m currently learning **trucking industry, project management, leadership skills**.
+- 🙋‍♂️ Ask me about **web development, distributed systems, software architecture, and cloud technologies**.
+- 📫 How to reach me: [@zicodeng](https://www.linkedin.com/in/zico-deng/) on LinkedIn or ask me anything [here].(https://github.com/zicodeng/zicodeng/issues)
+- ⚡ Fun fact: I have hitchhiker’s thumbs that can bend backwards.
+- ❤️ Personal motto: Be brave enough to suck at something new.
 
 -------
 
 **📝 Latest Blog Posts**
+
+I love sharing knowledge and primarily use [Medium](https://medium.com/@zicodeng) to write and publish posts. Below are a few selected ones:
 
 - [Explore the Magic Behind Google Chrome](https://zicodeng.medium.com/explore-the-magic-behind-google-chrome-c3563dbd2739)
 - [How VPN Works?](https://zicodeng.medium.com/how-vpn-works-b7549dcc6ce4)
