@@ -32,7 +32,7 @@ _____________|','   ///_/-------------/   |
 - 🙋‍♂️ Ask me about **web development, distributed systems, software architecture, and cloud technologies**.
 - 📫 How to reach me: [@zicodeng](https://www.linkedin.com/in/zico-deng/) on LinkedIn or ask me anything [here].(https://github.com/zicodeng/zicodeng/issues)
 - ⚡ Fun fact: I have hitchhiker’s thumbs that can bend backwards.
-- ❤️ Personal motto: Be brave enough to suck at something new.
+- ❤️ Personal motto: Be brave enough to suck at something new!
 
 -------
 
