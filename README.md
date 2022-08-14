@@ -27,9 +27,10 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-- 👨‍💻 I’m currently working for a 🦄 startup [Convoy 🚚](https://convoy.com/), on a mission to transport the world with endless capacity and zero waste.
-- 📖 I’m currently learning **trucking industry, project management, leadership skills**.
+- 👨‍💻 I’m currently working for 🌟🦄 decacorn [Stripe](https://stripe.com/), on a mission to increase the GDP of the internet.
+- 📖 I’m currently learning **Fintech and payment industry**.
 - 🙋‍♂️ Ask me about **web development, distributed systems, software architecture, and cloud technologies**.
+- 🤝 Curious what it is like working with me? Check out this [zico.README](https://zicodeng.medium.com/zico-readme-my-personal-readme-for-colleagues-d15269dcb576).
 - 📫 How to reach me: [@zicodeng](https://www.linkedin.com/in/zico-deng/) on LinkedIn or ask me anything [here](https://github.com/zicodeng/zicodeng/issues).
 - ⚡ Fun fact: I have hitchhiker’s thumbs that can bend backwards.
 - ❤️ Personal motto: Be brave enough to suck at something new!
